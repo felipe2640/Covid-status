@@ -5,8 +5,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/felipe2640/Covid-status?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/felipe2640/Covid-status?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/felipe2640/Covid-status?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipe2640/Covid-status?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 <img src="/assets/img/Capturar.PNG" alt="Imagem do index do Dashboard">
 
